@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm Cory! I'm new to this world of technology but quickily developing a love for all things development.
+I'm currently learning... the basics! This is a new journey for me < 1 year so bare with me; I have big plans though!
+Looking to share some portfolio projects and work with other developers to gain a better understanding of complex Game Development.
+Feel free to reach out to me on my linkedin profile. Link in profile.
 
 <!--
 **Cory1GHStudio/Cory1GHStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
